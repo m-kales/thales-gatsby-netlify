@@ -36,26 +36,22 @@ intro:
         Peter Singer is a world renowned philosopher from Princeton University, USA and University of Melbourne, Australia specializing in bioethics and practical ethics. He is credited as the intellectual founder of the modern animal rights movement, as well as being the founded of the organisation The Life You Can Save that advocates altruistic behaviour: 
 
         www.thelifeyoucansave.org
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/john-b.-goodenough-inorganic-chemistry-lab-oxford-plaque..-wikiepedia-billede-som-må-bruges-hvis-man-linker-til-licens-3.0-licens.jpg
+      text: >-
+        “I applaud your endeavor to establish Thales Day on the calendar at a
+        time when language is used more often for propaganda than as a medium
+        for the pursuit of truth. 
+           Stories, ritual, and celebrations are a way of communicating knowing and of sharing a common culture just as the sacrament of touch communicates love in a different way than words. However, Mythos is a story that bounds our knowledge and is haunted by its temptation to believe it to be objective fact; this belief enables the powerful to control and exploit a neighbor. Logos knowledge is derived from the process of dialogue with Nature, with Mythos, and with Adversary. Dialogue has no bounds; it allows continued testing and modification of belief in our quest for the discovery of truth and of reconciliation with all people.
+
+        Yours Sincerely,
+
+
+        John B. Goodenough” 
+
+
+        Bio:
+
+        Nobel laureate John B. Goodenough is a solid state physicist and chemical engineer from the University of Texas, USA. He is the father of the lithium-ion battery technology found everywhere in portable electronic devices and electric vehicles. Goodenough also helped lay the groundwork for the development of the random-access memory (RAM) for the digital computer.
   heading: Contribute
   description: >-
     May 28, 585 BC is the day most commonly associated with the beginning of
