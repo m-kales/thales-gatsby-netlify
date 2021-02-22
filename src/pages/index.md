@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Thales Days
+title: Thales Day
 image: /img/kevin-noble-lzkc4lnqdgm-unsplash.jpg
 heading: Our ability to reason
 subheading: May 28
