@@ -25,17 +25,16 @@ intro:
         emotions with distorted pictures of reality, we need to celebrate the
         ideals of science and philosophy and protect the free exchange of ideas
         in a calm and civil fashion. I welcome Thales Day as an occasion for
-        remembering the importance of these ideas.”
+        remembering the importance of these ideas.” 
 
-
-        * Peter Singer
+        - Peter Singer
 
 
         Bio: 
 
         Peter Singer is a world renowned philosopher from Princeton University, USA and University of Melbourne, Australia specializing in bioethics and practical ethics. He is credited as the intellectual founder of the modern animal rights movement, as well as being the founded of the organisation The Life You Can Save that advocates altruistic behaviour: 
 
-        <https://www.thelifeyoucansave.org>
+        [https://www.thelifeyoucansave.org]
     - image: /img/john-b.-goodenough-inorganic-chemistry-lab-oxford-plaque..-wikiepedia-billede-som-må-bruges-hvis-man-linker-til-licens-3.0-licens.jpg
       text: >-
         “I applaud your endeavor to establish Thales Day on the calendar at a
