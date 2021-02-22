@@ -27,6 +27,7 @@ intro:
         in a calm and civil fashion. I welcome Thales Day as an occasion for
         remembering the importance of these ideas.” 
 
+
         - Peter Singer
 
 
