@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/thales-day-logo-text-horizontal-01.svg'
 
 const Navbar = class extends React.Component {
@@ -45,6 +44,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Thales Day" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
+            {/* eslint-disable-next-line*/}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -76,7 +76,7 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
-            <div className="navbar-end has-text-centered">
+            {/*<div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
                 href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
@@ -87,7 +87,7 @@ const Navbar = class extends React.Component {
                   <img src={github} alt="Github" />
                 </span>
               </a>
-            </div>
+            </div>*/}
           </div>
         </div>
       </nav>
