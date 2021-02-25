@@ -7,7 +7,7 @@ $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
-$body-color: #333
+$body-color: #fff
 $black: #2b2523
 
 .navbar .navbar-menu
@@ -57,7 +57,7 @@ $black: #2b2523
     font-size: 18px
     font-size: 1rem
     line-height: 1.25
-    background-color: #fff
+    background-color: #black
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
@@ -138,3 +138,17 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+/* custom */
+body 
+  background-color: $black
+  color: $kaldi-red-invert
+
+.content h1, .content h2, .content h3, .content h4
+  color: $kaldi-red-invert
+
+.blog-list-item
+  background-color: $grey-dark
+  color: $kaldi-red-invert
+  -webkit-box-shadow: 0 0 20px #ffffff77
+  box-shadow: 0 0 20px #ffffff77
