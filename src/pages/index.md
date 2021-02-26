@@ -33,6 +33,7 @@ intro:
         Peter Singer is a world renowned philosopher from Princeton University, USA and University of Melbourne, Australia specializing in bioethics and practical ethics. He is credited as the intellectual founder of the modern animal rights movement, as well as being the founded of the organisation The Life You Can Save that advocates altruistic behaviour: 
 
         [thelifeyoucansave.org](https://www.thelifeyoucansave.org)
+      body: Noget
     - image: /img/john-b.-goodenough-inorganic-chemistry-lab-oxford-plaque..-wikiepedia-billede-som-må-bruges-hvis-man-linker-til-licens-3.0-licens.jpg
       text: >-
         “I applaud your endeavor to establish Thales Day on the calendar at a
@@ -49,6 +50,7 @@ intro:
         Bio:
 
         Nobel laureate John B. Goodenough is a solid state physicist and chemical engineer from the University of Texas, USA. He is the father of the lithium-ion battery technology found everywhere in portable electronic devices and electric vehicles. Goodenough also helped lay the groundwork for the development of the random-access memory (RAM) for the digital computer.
+      body: Poop
   heading: Contribute
   description: >-
     May 28, 585 BC is the day most commonly associated with the beginning of
