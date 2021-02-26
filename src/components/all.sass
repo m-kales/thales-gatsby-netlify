@@ -1,7 +1,5 @@
-@import "~bulma/sass/layout/footer.sass"
-
 @import "~bulma/sass/utilities/initial-variables"
-$footer-background-color: #bada55
+
 // Config vars
 // Kaldi logo brand color: #FD461E
 $kaldi-red: #f09b0d
@@ -59,7 +57,7 @@ $black: #2b2523
     font-size: 18px
     font-size: 1rem
     line-height: 1.25
-    background-color: #black
+    background-color: $black
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
@@ -84,7 +82,6 @@ $black: #2b2523
   padding: 0 1rem
 footer.footer
   padding: 3rem 0rem 0rem
-  background-color: transparent
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -154,3 +151,6 @@ body
   color: $kaldi-red-invert
   -webkit-box-shadow: 0 0 10px #ffffffbb
   box-shadow: 0 0 10px #ffffffbb
+
+.btn:hover
+  color: $kaldi-red-invert
