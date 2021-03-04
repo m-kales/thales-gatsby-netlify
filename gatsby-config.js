@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Thales Day',
+    title: 'Gatsby + Netlify CMS Starter',
     description:
-      'Join us in celebrating Thales Day on May 28, the day of the Eclipse of Thales and the day most commonly associated with the beginning of rational inquiry into nature.',
+      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
