@@ -152,6 +152,15 @@ h1, h2, h3, h4, h5, h6, a.title
 .content h1, .content h2, .content h3, .content h4
   color: $kaldi-red-invert
 
+a.navbar-item 
+  color: $kaldi-red-invert
+  opacity: .7
+
+a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active 
+  color: $kaldi-red-invert
+  opacity: 1
+  text-shadow: 1px 1px 2px $kaldi-red, 0 0 1em #ffee58, 0 0 0.2em $kaldi-red-invert
+
 .blog-list-item
   background-color: $grey-dark
   color: $kaldi-red-invert
