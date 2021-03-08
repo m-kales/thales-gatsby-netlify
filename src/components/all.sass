@@ -3,11 +3,11 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #f09b0d
-$kaldi-red-invert: #fff
+$primary: #f09b0d
+$primary-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $primary
+$primary-invert: $primary-invert
 $body-color: #fff
 $black: #2b2523
 
@@ -88,9 +88,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $primary-invert
+$menu-item-active-background-color:	$primary-invert
+$menu-list-border-left: 1px solid $primary-invert
 $menu-label-color: $white-ter
 
 
@@ -142,30 +142,31 @@ $menu-label-color: $white-ter
 /* custom */
 body 
   background-color: $black
-  color: $kaldi-red-invert
+  color: $primary-invert
   font-family: 'Roboto'
   font-weight: 300
 
 h1, h2, h3, h4, h5, h6, a.title
     font-family: 'Playfair Display', serif
 
-.content h1, .content h2, .content h3, .content h4
-  color: $kaldi-red-invert
+.content h1, .content h2, h2.title, .content h3, .content h4
+  color: $primary-invert
 
 a.navbar-item 
-  color: $kaldi-red-invert
+  color: $primary-invert
   opacity: .7
 
 a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active 
-  color: $kaldi-red-invert
+  color: $primary-invert
   opacity: 1
-  text-shadow: 1px 1px 2px $kaldi-red, 0 0 1em #ffee58, 0 0 0.2em $kaldi-red-invert
+  text-shadow: 1px 1px 2px $primary, 0 0 1em #ffee58, 0 0 0.2em $primary-invert
+  background-color: $primary
 
 .blog-list-item
   background-color: $grey-dark
-  color: $kaldi-red-invert
+  color: $primary-invert
 
 .btn:hover
-  color: $kaldi-red-invert
-  text-shadow: 1px 1px 2px $kaldi-red, 0 0 1em #ffee58, 0 0 0.2em $kaldi-red-invert
-  box-shadow: 0 0 10px $kaldi-red
+  color: $primary-invert
+  text-shadow: 1px 1px 2px $primary, 0 0 1em #ffee58, 0 0 0.2em $primary-invert
+  box-shadow: 0 0 10px $primary
