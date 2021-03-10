@@ -59,29 +59,4 @@ intro:
       text: |-
         Something\
         [here](http://www.example.com)
-  heading: Contribute
-  description: >-
-    May 28, 585 BC is the day most commonly associated with the beginning of
-    rational inquiry into nature. Therefore it is also relevant that we
-    celebrate it just like we celebrate other important cultural landmarks with
-    reference to the stories told about their origin, such as Christmas.
-
-
-    If you have an idea on how to promote Thales Day we would love to hear from you. Let your creative juices run free and together we can develop the event further. Especially we are interested in hearing from people who might like to stage a Thales Day event in their city. Your corporation is essential to making Thales Day a beloved international event that can help strengthen societies ties to the tradition of philosophy and science.
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---
