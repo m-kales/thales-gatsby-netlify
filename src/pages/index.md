@@ -56,6 +56,9 @@ intro:
 
         what what [what](example.com)
       image: /img/kahuna.jpg
+      text: |-
+        Something\
+        [here](http://www.example.com)
   heading: Contribute
   description: >-
     May 28, 585 BC is the day most commonly associated with the beginning of
