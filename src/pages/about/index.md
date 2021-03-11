@@ -1,14 +1,13 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: Words of Wisdom
 ---
 In his dialogue Protagoras, Plato says that the wisdom of Thales and the other Seven Sages was reflected in the brief but memorable remarks they each uttered when they met. In this spirit we put together a list of thought-provoking and insigthful quotes from our panel debates at Thales Day (alphabetically organized):
 
 
-“I find it quite fascinating how the human brain might be a bit limited, because it is hard for us to think of something that is completely meaningless. In this way we are part of nature and the universe; we cannot help but think of something that fits with it.”
-
--  Anja C. Andersen (Astronomer)
+>“I find it quite fascinating how the human brain might be a bit limited, because >it is hard for us to think of something that is completely meaningless. In this >way we are part of nature and the universe; we cannot help but think of >something that fits with it.”
+>-  Anja C. Andersen (Astronomer)
 
 
 “One of the articles I am most proud of was completely wrong but it was a great idea, and it was very well written and still quoted. It just turned out to be wrong.”
