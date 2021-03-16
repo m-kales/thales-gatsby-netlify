@@ -125,6 +125,7 @@ ProductPageTemplate.propTypes = {
     heading: PropTypes.string,
     description: PropTypes.string,
     plans: PropTypes.array,
+    prodImg: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
 }
 
@@ -239,6 +240,16 @@ export const productPageQuery = graphql`
             items
             plan
             price
+            prodImg {
+              image {
+                childImageSharp {
+                  fluid(maxWidth: 240, quality: 64) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              alt
+            }
           }
         }
       }
