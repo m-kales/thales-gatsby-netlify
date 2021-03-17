@@ -80,7 +80,7 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       prodImg:
-        image: /img/meeting-space.png
+        image: /img/thales-day-t-shirt-merchandise-2018.jpg
         alt: Product image
       price: "50"
     - description: Great for avid drinkers, java-loving couples and bigger crowds
@@ -90,7 +90,7 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       prodImg:
-        image: /img/coffee.png
+        image: /img/thales-day-cup-merchandise-2018-preview.jpg
         alt: Product image
       price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
@@ -100,7 +100,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       prodImg:
-        image: /img/coffee-gear.png
+        image: /img/thales-day-postcard-merchandise-2018-preview.jpg
         alt: Product image
       price: ??
 ---
