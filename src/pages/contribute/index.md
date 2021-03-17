@@ -1,7 +1,7 @@
 ---
 heading: Great coffee with a conscience
 path: /contribute
-templateKey: product-page
+templateKey: contribute-page
 title: Contribute
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
