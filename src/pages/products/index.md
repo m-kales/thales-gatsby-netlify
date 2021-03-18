@@ -1,8 +1,8 @@
 ---
-heading: Put this in your calendar
+heading: Save the date
 path: /products
 templateKey: product-page
-title: We're in this together
+title: Celebrate Critical Thinking
 image: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
 description: May 28, 585 BC is the day most commonly associated with the
   beginning of rational inquiry into nature. Therefore it is also relevant that
@@ -19,8 +19,9 @@ intro:
     making Thales Day a beloved international event that can help strengthen
     societies ties to the tradition of philosophy and science.
 main:
-  heading: Hello
-  description: "\n"
+  heading: Our greatest gift of nature
+  description: is the ability to reason and make sound judgements about ourselves
+    and the world around us.
   image1:
     alt: Stefan and Henrik from the Thales Day crew went scouting for potential
       partnerships in the summer of 2017.
