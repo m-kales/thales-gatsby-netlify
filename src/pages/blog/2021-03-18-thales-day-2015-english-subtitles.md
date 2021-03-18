@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Thales Day 2015 (English subtitles)
-date: 2021-03-18T11:13:52.473Z
+date: 2015-01-06T11:13:00.000Z
 description: " Philosopher Henrik Schoeneberg on how philosophy and science
   began and why we should celebrate its origin."
 featuredimage: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
