@@ -1,8 +1,8 @@
 ---
 heading: Great coffee with a conscience
-path: /contribute
+path: /products
 templateKey: product-page
-title: Contribute
+title: Our Coffee
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
@@ -68,39 +68,44 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Merchandise
+  description: We are proud to have teamed up with highly esteemed animator Ib
+    Kjeldsmark to offer you the first ever commercially available drawing of the
+    famous story of Thales who fell into a well while watching the
+    stars.    Simply send us an email or give us a call and we will deliver to
+    you at lowest possible shipping rate. Money from sales goes to funding the
+    event, and you can write or call for full disclosure - no hidden variables.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: According to Plato a beautiful slave girl laughed at Thales and
+        said, "You are so occupied with what is going on in the sky that you
+        cannot see what is at your feet." Can you spot her in Kjeldsmark's
+        original design?
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - 100% Extra soft ring-spun cotton
+      plan: Thales Day T-shirt
       prodImg:
-        image: /img/meeting-space.png
-        alt: Product image
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        image: /img/thales-day-t-shirt-merchandise-2018.jpg
+        alt: Thales Day T-shirt
+      price: 16.00 / DKK 100
+    - description: 'The story of Thales falling into a well went full circle when
+        seemingly retold in a famous quote by the most famous scientist of the
+        21st century, Steven Hawking. He reminds us to, "Look up at the stars
+        and not down at your feet. Try to make sense of what you see, and wonder
+        about what makes the universe exist. Be curious." '
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Illustration on front
+        - Text on back
+      plan: Thales Day Mug
       prodImg:
-        image: /img/coffee.png
-        alt: Product image
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        image: /img/thales-day-cup-merchandise-2018-preview.jpg
+        alt: Thales Day Mug
+      price: "16.00 / DKK 100 "
+    - description: For passing along messages.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Stamps not included
+      plan: Thales Day Postcard
       prodImg:
-        image: /img/coffee-gear.png
-        alt: Product image
-      price: ??
+        image: /img/thales-day-postcard-merchandise-2018-preview.jpg
+        alt: Thales Day Postcard
+      price: 4.00 / DKK 25
 ---
