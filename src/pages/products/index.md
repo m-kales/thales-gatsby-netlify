@@ -1,5 +1,5 @@
 ---
-heading: Great coffee with a conscience
+heading: Put this in your calendar
 path: /products
 templateKey: product-page
 title: We're in this together
@@ -10,12 +10,14 @@ description: May 28, 585 BC is the day most commonly associated with the
   reference to the stories told about their origin, such as Christmas.
 intro:
   blurbs: []
-  heading: What we offer
+  heading: Speak up
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    If you have an idea on how to promote Thales Day we would love to hear from
+    you. Let your creative juices run free and together we can develop the event
+    further. Especially we are interested in hearing from people who might like
+    to stage a Thales Day event in their city. Your corporation is essential to
+    making Thales Day a beloved international event that can help strengthen
+    societies ties to the tradition of philosophy and science.
 main:
   heading: Hello
   description: "\n"
@@ -24,7 +26,7 @@ main:
     image: /img/stefan-og-henrik-ved-festival-i-maj-2017-for-at-tale-samarbjede-received_10158909195540093.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/thales-day-2018-wisdom-of-the-crowd-vinder-skærmbillede-2018-05-29-kl.-13.10.32.png
+    image: /img/thales-day-2017-post-truth-billede-208-2.jpg
   image3:
     alt: Coffee beans
     image: /img/thales-day-2016-26853844_10155166037306517_742360843_o.jpg
