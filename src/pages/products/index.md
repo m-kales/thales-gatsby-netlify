@@ -60,12 +60,25 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Peter Singer
+    quote: ”Today, more than ever, when popularists are appealing to our baser
+      emotions with distorted pictures of reality, we need to celebrate the
+      ideals of science and philosophy and protect the free exchange of ideas in
+      a calm and civil fashion. I welcome Thales Day as an occasion for
+      remembering the importance of these ideas.”
+  - author: John B. Goodenough
+    quote: “I applaud your endeavor to establish Thales Day on the calendar at a
+      time when language is used more often for propaganda than as a medium for
+      the pursuit of truth.     Stories, ritual, and celebrations are a way of
+      communicating knowing and of sharing a common culture just as the
+      sacrament of touch communicates love in a different way than words.
+      However, Mythos is a story that bounds our knowledge and is haunted by its
+      temptation to believe it to be objective fact; this belief enables the
+      powerful to control and exploit a neighbor. Logos knowledge is derived
+      from the process of dialogue with Nature, with Mythos, and with Adversary.
+      Dialogue has no bounds; it allows continued testing and modification of
+      belief in our quest for the discovery of truth and of reconciliation with
+      all people.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Merchandise
