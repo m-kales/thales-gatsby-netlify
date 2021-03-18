@@ -22,14 +22,15 @@ main:
   heading: Hello
   description: "\n"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Stefan and Henrik from the Thales Day crew went scouting for potential
+      partnerships in the summer of 2017.
     image: /img/stefan-og-henrik-ved-festival-i-maj-2017-for-at-tale-samarbjede-received_10158909195540093.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Top class speakers
     image: /img/thales-day-2017-post-truth-billede-208-2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/thales-day-2016-26853844_10155166037306517_742360843_o.jpg
+    alt: Lecture at the H.C. Ørsted Institute in Copenhagen
+    image: /img/thalesday.hcorsted.ku.21112018.instagram.jpg
 testimonials:
   - author: Peter Singer
     quote: ”Today, more than ever, when popularists are appealing to our baser
@@ -50,7 +51,7 @@ testimonials:
       Dialogue has no bounds; it allows continued testing and modification of
       belief in our quest for the discovery of truth and of reconciliation with
       all people.
-full_image: /img/celso-oliveira-405219-unsplash.jpg
+full_image: /img/thales-day-2016-26853844_10155166037306517_742360843_o.jpg
 pricing:
   heading: Merchandise
   description: We are proud to have teamed up with highly esteemed animator Ib
