@@ -22,6 +22,8 @@ intro:
     - image: /img/coffee-gear.png
       text: Aposteriori Coffee
       body: Noget
+    - image: /img/tutorials.png
+      text: The Bookstore
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
