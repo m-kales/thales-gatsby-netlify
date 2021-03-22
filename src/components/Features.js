@@ -3,10 +3,10 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+  <div className="columns is-multiline has-background-grey-darker">
     {gridItems.map((item) => (
       <div key={item.text} className="column is-6">
-        <section className="section">
+        <section className="section has-text-centered">
           <div className="has-text-centered">
             <div
               style={{

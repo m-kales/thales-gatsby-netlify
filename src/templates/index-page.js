@@ -77,7 +77,7 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
-                <div className="columns has-background-grey-dark">
+                <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
@@ -85,7 +85,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <div className="columns">
+                <div className="columns has-background-grey-darker py-4">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {intro.heading}
@@ -94,7 +94,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                <div className="columns has-background-grey-darker">
                   <div className="column is-12 has-text-centered">
                     {/*<Link className="btn" to="/products">
                       See all products
