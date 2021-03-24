@@ -3,14 +3,13 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline has-background-grey-darker">
+  <div className="tile is-ancestor">
     {gridItems.map((item) => (
-      <div key={item.text} className="column is-6">
-        <section className="section has-text-centered">
-          <div className="has-text-centered">
+      <div key={item.text} className="tile is-third is-parent is-vertical block has-text-centered">
+          <div className="tile is-child has-text-centered">
             <div
               style={{
-                width: '240px',
+                width: '200px',
                 display: 'inline-block',
               }}
             >
@@ -18,7 +17,6 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
-        </section>
       </div>
     ))}
   </div>
