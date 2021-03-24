@@ -88,7 +88,7 @@ export const IndexPageTemplate = ({
 
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Featured posts
                   </h3>
                   <BlogRollFeatured />
                   <div className="column is-12 has-text-centered">
