@@ -19,11 +19,13 @@ description: in celebrating Thales Day on May 28, the day of the Eclipse of
   that enable constructive dialogue and mutual understanding.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/apcof-logo_180x.webp
       text: Aposteriori Coffee
       body: Noget
-    - image: /img/tutorials.png
+    - image: /img/logo.bookstore_placeholder-01.svg
       text: The Bookstore
+    - image: /img/gut.print-01.svg
+      text: The Printer
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
