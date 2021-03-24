@@ -1,6 +1,6 @@
 ---
 heading: Save the date
-path: /products
+path: /info
 templateKey: product-page
 title: Celebrate Critical Thinking
 image: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
