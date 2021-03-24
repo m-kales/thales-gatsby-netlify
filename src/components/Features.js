@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline has-background-grey-darker">
     {gridItems.map((item) => (
-      <div key={item.text} className="column is-3">
+      <div key={item.text} className="column is-6">
         <section className="section has-text-centered">
           <div className="has-text-centered">
             <div
