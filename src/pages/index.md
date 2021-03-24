@@ -22,7 +22,7 @@ intro:
     - image: /img/apcof-logo_180x.webp
       text: Aposteriori Coffee
       body: Noget
-    - image: /img/logo.bookstore_placeholder-01.png
+    - image: /img/logo.bookstore.white_placeholder-01.png
       text: The Bookstore
     - image: /img/gut.print-01.png
       text: The Printer
