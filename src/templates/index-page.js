@@ -85,22 +85,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <div className="columns has-background-grey-darker py-4">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {intro.heading}
-                    </h3>
-                    <p>{intro.description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns has-background-grey-darker">
-                  <div className="column is-12 has-text-centered">
-                    {/*<Link className="btn" to="/products">
-                      See all products
-                      </Link>*/}
-                  </div>
-                </div>
+
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
@@ -110,6 +95,22 @@ export const IndexPageTemplate = ({
                     <Link className="btn" to="/blog">
                       Read more
                     </Link>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h3 className="has-text-weight-semibold is-size-2">
+                      {intro.heading}
+                    </h3>
+                    <p>{intro.description}</p>
+                  </div>
+                </div>
+                <Features gridItems={intro.blurbs} />
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    {/*<Link className="btn" to="/products">
+                      See all products
+                      </Link>*/}
                   </div>
                 </div>
               </div>
