@@ -112,6 +112,8 @@ ProductPageTemplate.propTypes = {
   heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
     blurbs: PropTypes.array,
   }),
   main: PropTypes.shape({
