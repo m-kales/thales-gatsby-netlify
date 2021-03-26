@@ -17,6 +17,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <a href="#">Link</a>
       </div>
     ))}
   </div>
