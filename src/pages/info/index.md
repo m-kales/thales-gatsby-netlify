@@ -1,7 +1,7 @@
 ---
 heading: Save the date
 path: /info
-templateKey: product-page
+templateKey: info-page
 title: Celebrate Critical Thinking
 image: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
 description: May 28, 585 BC is the day most commonly associated with the
