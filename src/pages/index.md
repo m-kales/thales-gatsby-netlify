@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Thales Day
-image: /img/kevin-noble-lzkc4lnqdgm-unsplash.jpg
+image: /img/bryan-goff-we1ky8_zthg-unsplash.jpg
 heading: Join us
 subheading: May 28
 mainpitch:
