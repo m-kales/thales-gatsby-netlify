@@ -31,7 +31,7 @@ main:
     image: /img/thales-day-2017-post-truth-billede-208-2.jpg
   image3:
     alt: Lecture at the H.C. Ørsted Institute in Copenhagen
-    image: /img/thalesday.hcorsted.ku.21112018.instagram.jpg
+    image: /img/thalesday.hcorsted.ku.21112018.instagram_16-9.jpg
 testimonials:
   - author: Peter Singer
     quote: ”Today, more than ever, when popularists are appealing to our baser
