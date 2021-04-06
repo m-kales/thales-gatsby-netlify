@@ -1,6 +1,6 @@
 ---
-templateKey: about-page
 path: /words
+templateKey: about-page
 title: Words of Wisdom
 ---
 In his dialogue Protagoras, Plato says that the wisdom of Thales and the other Seven Sages was reflected in the brief but memorable remarks they each uttered when they met. In this spirit we put together a list of thought-provoking and insigthful quotes from our panel debates at Thales Day (alphabetically organized):
