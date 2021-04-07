@@ -4,6 +4,7 @@ title: Wisdom of the Crowd 2019
 date: 2019-06-04T07:35:00.000Z
 description: "We asked people in the street and at Thales Day in Rundetaarn,
   Copenhagen to guess how many sunflower seeds were in our jar. "
+featuredpost: true
 featuredimage: /img/img_20190529_151048.jpg
 tags:
   - wisdom of the crowd
