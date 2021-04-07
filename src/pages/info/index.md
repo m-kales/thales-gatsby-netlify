@@ -68,6 +68,7 @@ pricing:
         original design?
       items:
         - 100% Extra soft ring-spun cotton
+        - Choose between men's and women's T-shirts
       plan: Thales Day T-shirt
       prodImg:
         image: /img/Thales Day t-shirt woman.jpeg
