@@ -70,7 +70,7 @@ pricing:
         - 100% Extra soft ring-spun cotton
       plan: Thales Day T-shirt
       prodImg:
-        image: /img/thales-day-t-shirt-merchandise-2018.jpg
+        image: /img/Thales Day t-shirt woman.jpeg
         alt: Thales Day T-shirt
       price: 16.00 / DKK 100
     - description: 'The story of Thales falling into a well went full circle when
@@ -83,7 +83,7 @@ pricing:
         - Text on back
       plan: Thales Day Mug
       prodImg:
-        image: /img/thales-day-cup-merchandise-2018-preview.jpg
+        image: /img/Thales Day kop bagside.jpeg
         alt: Thales Day Mug
       price: "16.00 / DKK 100 "
     - description: For passing along messages.
@@ -91,7 +91,8 @@ pricing:
         - Stamps not included
       plan: Thales Day Postcard
       prodImg:
-        image: /img/thales-day-postcard-merchandise-2018-preview.jpg
+        image: /img/Thales Day postkort og trøjedesign tilsendt af Ib Kjeldsmark Årstal
+          fjernet af Henrik i Paintbrush.png
         alt: Thales Day Postcard
       price: 4.00 / DKK 25
 ---
