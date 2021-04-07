@@ -3,7 +3,7 @@ heading: Save the date
 path: /info
 templateKey: info-page
 title: Celebrate Critical Thinking
-image: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
+image: /img/celso-oliveira-405219-unsplash.jpg
 description: May 28, 585 BC is the day most commonly associated with the
   beginning of rational inquiry into nature. Therefore it is also relevant that
   we celebrate it just like we celebrate other important cultural landmarks with
@@ -70,7 +70,7 @@ pricing:
         - 100% Extra soft ring-spun cotton
       plan: Thales Day T-shirt
       prodImg:
-        image: /img/thales-day-t-shirt-merchandise-2018.jpg
+        image: /img/thales-day-t-shirt-mænd.jpeg
         alt: Thales Day T-shirt
       price: 16.00 / DKK 100
     - description: 'The story of Thales falling into a well went full circle when
