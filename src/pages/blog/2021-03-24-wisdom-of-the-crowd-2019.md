@@ -14,6 +14,8 @@ We will conduct the experiment again next year as always as a fun and inclusive 
 
 ![Winner with olive tree](/img/img_20190529_151048.jpg)
 
-
-
 Congratulations to the winners of this year's olive tree for having the best individual guess at Thales Day 2019 in Rundetaarn, Copenhagen.
+
+### Why do winners get an olive tree?
+
+In part XI of Book 1 of his 'Politics' Aristotle tells of an illustrative anecdote in which Thales predicted that the weather would be favorable to the olive harvest the following year. He therefore bought the rights to the olive presses in his hometown of Miletus and the neighbouring town. When his prediction came true and everyone needed the presses he sold the rights further on to a prize he himself fixed. He did so to show that philosophers can indeed make money but that they are interested in other things-- those other things being philosophy, which means love of knowledge and wisdom.
