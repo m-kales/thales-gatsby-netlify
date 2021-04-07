@@ -70,7 +70,7 @@ pricing:
         - 100% Extra soft ring-spun cotton
       plan: Thales Day T-shirt
       prodImg:
-        image: /img/thales-day-t-shirt-mænd.jpeg
+        image: /img/thales-day-t-shirt-merchandise-2018.jpg
         alt: Thales Day T-shirt
       price: 16.00 / DKK 100
     - description: 'The story of Thales falling into a well went full circle when
