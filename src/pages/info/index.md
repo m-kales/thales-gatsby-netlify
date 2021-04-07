@@ -3,7 +3,7 @@ heading: Save the date
 path: /info
 templateKey: info-page
 title: Celebrate Critical Thinking
-image: /img/celso-oliveira-405219-unsplash.jpg
+image: /img/nasa-hi5dx2obas-unsplash.jpg
 description: May 28, 585 BC is the day most commonly associated with the
   beginning of rational inquiry into nature. Therefore it is also relevant that
   we celebrate it just like we celebrate other important cultural landmarks with
