@@ -16,11 +16,9 @@ Thanks a lot for participating.
 
 ![Winners holding an olive tree](/img/thales-day-2018-wisdom-of-the-crowd-vinder-skærmbillede-2018-05-29-kl.-13.10.32.png)
 
-
-
 The winner of an olive tree for having the best individual guess amongst participants at Thales Day in Rundetaarn, Copenhagen 2018
 
-<!--StartFragment-->
+
 
 ### Why do winners get an olive tree?
 
