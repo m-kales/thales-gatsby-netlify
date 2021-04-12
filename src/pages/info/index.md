@@ -99,7 +99,7 @@ pricing:
     - prodImg:
         image: /img/thales-day-t-shirt-med-logo-men-gul.jpeg
         alt: Black Thales Day Logo T-shirt
-      plan: Thales Day Logo T-shirt
+      plan: Thales Day Logo T-shirt Men's
       price: 40.00 / DKK 250
       items:
         - 100% Extra Soft Ring-spun Cotton
@@ -107,4 +107,16 @@ pricing:
         Mikael Hansen. It depicts the Eclipse of Thales and we think it fits
         really well on closing so that you can promote critical thinking and
         look sophisticated and stylish at the same time.
+    - plan: Thales Day Logo T-shirt Women's
+      prodImg:
+        image: /img/thales-day-t-shirt-med-logo-woman-gul.jpeg
+        alt: Black Thales Day Logo T-shirt
+      price: 40.00 / DKK 250
+      description: What is remarkable about the Eclipse of Thales is not only that it
+        puts a workable date on the beginning of the tradition of philosophy and
+        science, but that both then and now predicting a total solar eclipse is
+        likely the greatest symbol of the triumph of the kind of thinking that
+        began with Thales and his contemporaries in ancient Greece.
+      items:
+        - 100% Extra Soft Ring-spun Cotton
 ---
