@@ -55,18 +55,43 @@ testimonials:
 full_image: /img/thales-day-2016-26853844_10155166037306517_742360843_o.jpg
 pricing:
   heading: Merchandise
-  description: We are proud to have teamed up with highly esteemed animator Ib
-    Kjeldsmark to offer you the first ever commercially available drawing of the
-    famous story of Thales who fell into a well while watching the
-    stars.    Simply send us an email or give us a call and we will deliver to
+  description: Simply send us an email or give us a call and we will deliver to
     you at lowest possible shipping rate. Money from sales goes to funding the
     event, and you can write or call for full disclosure - no hidden variables.
-  text: Dummy content.
+  text: >-
+    We are proud to have teamed up with highly esteemed animator Ib Kjeldsmark
+    to offer you the first ever commercially available drawing of the famous
+    story of Thales who fell into a well while watching the stars.
+
+
+    According to Plato a beautiful slave girl laughed at Thales and said, "You are so occupied with what is going on in the sky that you cannot see what is at your feet." Can you spot her in Kjeldsmark's original design?   
+
+
+    The story of Thales falling into a well went full circle when seemingly retold in a famous quote by the most famous scientist of the 21st century, Steven Hawking. He reminds us to, "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious." 
+
+
+    The Thales Day logo was created by the brilliant graphical designer
+
+    Mikael Hansen. It depicts the Eclipse of Thales and we think it fits
+
+    really well on closing so that you can promote critical thinking and
+
+    look sophisticated and stylish at the same time.
+
+
+    What is remarkable about the Eclipse of Thales is not only that it
+
+    puts a workable date on the beginning of the tradition of philosophy
+
+    and science, but that both then and now predicting a total solar
+
+    eclipse is likely the greatest symbol of the triumph of the kind of
+
+    thinking that began with Thales and his contemporaries in ancient
+
+    Greece.
   plans:
-    - description: According to Plato a beautiful slave girl laughed at Thales and
-        said, "You are so occupied with what is going on in the sky that you
-        cannot see what is at your feet." Can you spot her in Kjeldsmark's
-        original design?
+    - description: White T-shirt with illustration on front
       items:
         - 100% Extra soft ring-spun cotton
         - Choose between men's and women's T-shirts
@@ -74,12 +99,8 @@ pricing:
       prodImg:
         image: /img/Thales Day t-shirt woman.jpeg
         alt: Thales Day T-shirt
-      price: 16.00 / DKK 100
-    - description: 'The story of Thales falling into a well went full circle when
-        seemingly retold in a famous quote by the most famous scientist of the
-        21st century, Steven Hawking. He reminds us to, "Look up at the stars
-        and not down at your feet. Try to make sense of what you see, and wonder
-        about what makes the universe exist. Be curious." '
+      price: 40.00 / DKK 250
+    - description: White ceramic mug
       items:
         - Illustration on front
         - Text on back
