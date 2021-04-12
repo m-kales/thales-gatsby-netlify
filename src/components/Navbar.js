@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/thales-day-logo-text-horizontal-01.svg'
+import logo from '../img/thalesday_logo_horizontal_no-tag_no-bg_rgb_v01-03.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 
