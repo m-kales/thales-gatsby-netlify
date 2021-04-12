@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/thales-day-logo-text-horizontal-01.svg'
+import facebook from '../img/social/facebook.svg'
+import instagram from '../img/social/instagram.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -63,9 +65,6 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item" to="/info">
                 Info
               </Link>
-              <Link className="navbar-item" to="/words">
-                Words of Wisdom
-              </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
@@ -73,18 +72,28 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
             </div>
-            {/*<div className="navbar-end has-text-centered">
+            <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://www.facebook.com/traditionofphilosophyandscience/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={facebook} alt="Facebook" />
                 </span>
               </a>
-            </div>*/}
+              <a
+                className="navbar-item"
+                href="https://www.instagram.com/thalesday/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={instagram} alt="Instagram" />
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </nav>
