@@ -96,4 +96,15 @@ pricing:
           fjernet af Henrik i Paintbrush.png
         alt: Thales Day Postcard
       price: 4.00 / DKK 25
+    - prodImg:
+        image: /img/thales-day-t-shirt-med-logo-men-gul.jpeg
+        alt: Black Thales Day Logo T-shirt
+      plan: Thales Day Logo T-shirt
+      price: 40.00 / DKK 250
+      items:
+        - 100% Extra Soft Ring-spun Cotton
+      description: The Thales Day logo was created by the brilliant graphical designer
+        Mikael Hansen. It depicts the Eclipse of Thales and we think it fits
+        really well on closing so that you can promote critical thinking and
+        look sophisticated and stylish at the same time.
 ---
