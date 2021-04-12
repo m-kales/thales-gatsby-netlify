@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const Pricing = ({ data }) => (
-  <div className="columns">
+  <div className="columns is-multiline">
     {data.map((price) => (
       <div key={price.plan} className="column">
         <section className="section">
