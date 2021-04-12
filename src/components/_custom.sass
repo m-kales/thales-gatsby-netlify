@@ -10,9 +10,14 @@ h1, h2, h3, h4, h5, h6, a.title
 .content h1, .content h2, h2.title, .content h3, .content h4
   color: $primary-invert
 
-a.navbar-item 
+a.navbar-item
   color: $primary-invert
   opacity: .7
+
+.navbar-item
+  .icon
+    img
+      filter: invert(1)
 
 a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active 
   color: $primary-invert
