@@ -61,6 +61,7 @@ pricing:
     stars.    Simply send us an email or give us a call and we will deliver to
     you at lowest possible shipping rate. Money from sales goes to funding the
     event, and you can write or call for full disclosure - no hidden variables.
+  text: Dummy content.
   plans:
     - description: According to Plato a beautiful slave girl laughed at Thales and
         said, "You are so occupied with what is going on in the sky that you
