@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 const Pricing = ({ data }) => (
   <div className="columns is-multiline">
     {data.map((price) => (
-      <div key={price.plan} className="column">
+      <div key={price.plan} className="column is-4">
         <section className="section">
         <PreviewCompatibleImage imageInfo={price.prodImg} />
           <h4 className="has-text-centered has-text-weight-semibold">
