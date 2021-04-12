@@ -90,6 +90,10 @@ pricing:
     thinking that began with Thales and his contemporaries in ancient
 
     Greece.
+
+  bodytext:
+    - paragraph: Dummy
+    - paragraph: content
   plans:
     - description: White T-shirt with illustration on front
       items:

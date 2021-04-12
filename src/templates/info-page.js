@@ -247,7 +247,9 @@ export const infoPageQuery = graphql`
         pricing {
           heading
           description
-          bodytext
+          bodytext {
+            paragraph
+          }
           text
           plans {
             description
