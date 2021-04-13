@@ -97,7 +97,11 @@ export const InfoPageTemplate = ({
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
-              <p>{pricing.text1}</p>
+              <p>{pricing.text1} <br/>
+              <Link to="http://ib-k.blogspot.com/" rel="noopener noreferrer" target="_blank">
+              ib-k.blogspot.com
+              </Link></p>
+
               <p>{pricing.text2}</p>
               <p>{pricing.text3}</p>
               <p>{pricing.text4}</p>
