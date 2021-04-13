@@ -91,7 +91,7 @@ pricing:
 
     Greece.
 
-  bodytext:
+  bodytexts:
     - paragraph: Dummy
     - paragraph: content
   plans:

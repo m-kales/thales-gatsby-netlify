@@ -98,7 +98,7 @@ export const InfoPageTemplate = ({
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <p>{pricing.text}</p>
-              <p>{pricing.bodytext}</p>
+              <p>{pricing.bodytexts.paragraph}</p>
               <Pricing data={pricing.plans} />
               <div className="has-text-centered">
                 <Link className="btn" to="/contact">
@@ -135,7 +135,7 @@ InfoPageTemplate.propTypes = {
   pricing: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    bodytext: PropTypes.string,
+    bodytexts: PropTypes.array,
     plans: PropTypes.array,
     prodImg: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
@@ -247,7 +247,7 @@ export const infoPageQuery = graphql`
         pricing {
           heading
           description
-          bodytext {
+          bodytexts {
             paragraph
           }
           text
