@@ -97,7 +97,10 @@ export const InfoPageTemplate = ({
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
-              <p>{pricing.text}</p>
+              <p>{pricing.text1}</p>
+              <p>{pricing.text2}</p>
+              <p>{pricing.text3}</p>
+              <p>{pricing.text4}</p>
               <Pricing data={pricing.plans} />
               <div className="has-text-centered">
                 <Link className="btn" to="/contact">
@@ -245,7 +248,10 @@ export const infoPageQuery = graphql`
         pricing {
           heading
           description
-          text
+          text1
+          text2
+          text3
+          text4
           plans {
             description
             items
