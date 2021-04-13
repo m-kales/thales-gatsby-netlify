@@ -42,7 +42,6 @@ const InfoPagePreview = ({ entry, getAsset }) => {
       pricing={{
         heading: entry.getIn(['data', 'pricing', 'heading']),
         description: entry.getIn(['data', 'pricing', 'description']),
-        bodytexts: entry.getIn(['data', 'pricing', 'bodytext', 'paragraph']),
         plans: pricingPlans,
       }}
     />
