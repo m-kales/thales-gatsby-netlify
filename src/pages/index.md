@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Thales Day
-image: /img/abed-ismail-_jhurn9o8ym-unsplash.jpg
+title: Questioning reality
+image: /img/sven-scheuermeier-sagbra6s8g0-unsplash.jpg
 heading: Join us
-subheading: May 28
+subheading: Since 585 B.C.
 mainpitch:
   title: Our ability to reason
   description: "is rooted in the tradition of philosophy and science that began
@@ -22,10 +22,6 @@ intro:
     - image: /img/apcof-logo_180x.webp
       text: Aposteriori Coffee
       body: Noget
-    - image: /img/logo.bookstore.white_placeholder-01.png
-      text: The Bookstore
-    - image: /img/gut.print-01.png
-      text: The Printer
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
