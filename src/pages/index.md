@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Questioning reality
-image: /img/sven-scheuermeier-sagbra6s8g0-unsplash.jpg
+image: /img/cristian-palmer-jz0ottasgb8-unsplash.jpg
 heading: Join us
 subheading: Since 585 B.C.
 mainpitch:
