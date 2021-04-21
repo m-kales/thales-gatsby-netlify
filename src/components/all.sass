@@ -123,7 +123,8 @@ $menu-label-color: $white-ter
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
+  flex-basis: 50%;
+  flex-grow: 1;
   margin: 0 1.5em 0 0;
 
 
@@ -131,9 +132,6 @@ $menu-label-color: $white-ter
 
 
 // responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
 
 +mobile
   .blog-list-item header
