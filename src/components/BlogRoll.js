@@ -40,11 +40,11 @@ class BlogRoll extends React.Component {
                     <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
+                    <span>{post.frontmatter.description}</span>
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
-                  <br />
+                  
                   <br />
                   <Link className="button" to={post.fields.slug}>
                     Keep Reading →
@@ -85,10 +85,11 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                description
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 220, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
