@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import { kebabCase } from 'lodash'
 
 class BlogRoll extends React.Component {
   render() {
@@ -37,10 +38,22 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                    <span className="subtitle is-size-6 is-block">
                       {post.frontmatter.date}
                     </span>
                     <span>{post.frontmatter.description}</span>
+                    {post.frontmatter.tags && post.frontmatter.tags.length ? (
+                    <div>
+                      
+                      <ul className="taglist">
+                        {post.frontmatter.tags.map((tag) => (
+                          <li key={tag + `tag`}>
+                            <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                    ) : null}
                   </p>
                 </header>
                 <p>
@@ -86,6 +99,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 description
+                tags
                 featuredpost
                 featuredimage {
                   childImageSharp {
