@@ -42,9 +42,16 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.date}
                     </span>
                     <span>{post.frontmatter.description}</span>
-                    {post.frontmatter.tags && post.frontmatter.tags.length ? (
-                    <div>
-                      
+                    <br />
+                    <br />
+                  <Link className="button" to={post.fields.slug}>
+                    Keep Reading →
+                  </Link>
+                  </p>
+                </header>
+                {post.frontmatter.tags && post.frontmatter.tags.length ? (
+                    <div className="is-size-7 roll-tags">
+                    <span>Tags:</span>
                       <ul className="taglist">
                         {post.frontmatter.tags.map((tag) => (
                           <li key={tag + `tag`}>
@@ -54,15 +61,6 @@ class BlogRoll extends React.Component {
                       </ul>
                     </div>
                     ) : null}
-                  </p>
-                </header>
-                <p>
-                  
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
               </article>
             </div>
           ))}
