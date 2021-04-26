@@ -51,7 +51,7 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 {post.frontmatter.tags && post.frontmatter.tags.length ? (
-                    <div className="is-size-7 roll-tags">
+                    <div className="is-size-6 roll-tags">
                     <span>Tags:</span>
                       <ul className="taglist">
                         {post.frontmatter.tags.map((tag) => (
