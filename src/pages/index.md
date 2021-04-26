@@ -20,7 +20,7 @@ description: in celebrating Thales Day on May 28, the day of the Eclipse of
 intro:
   blurbs:
     - image: /img/apcof-logo_180x.webp
-      text: Aposteriori Coffee
+      text: A Posteriori Coffee Co.
       body: Noget
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
