@@ -1,8 +1,9 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import logo from '../img/thalesday_logo_horizontal_no-tag_no-bg_rgb_v01-03.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
+import AniLink from 'gatsby-plugin-transition-link/AniLink'
+import './_overflow.css'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -42,9 +43,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
+            <AniLink cover direction="right" bg="#f09b0d" to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="Thales Day" style={{ width: '88px' }} />
-            </Link>
+            </AniLink>
             {/* Hamburger menu */}
             {/* eslint-disable-next-line*/}
             <div
@@ -62,15 +63,15 @@ const Navbar = class extends React.Component {
             className={`navbar-menu has-background-black-ter ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-            <Link className="navbar-item" to="/info">
+            <AniLink className="navbar-item" fade to="/info" >
                 Info
-              </Link>
-              <Link className="navbar-item" to="/blog">
+              </AniLink>
+              <AniLink className="navbar-item" fade to="/blog" >
                 Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
+              </AniLink>
+              <AniLink className="navbar-item" fade to="/contact" >
                 Contact
-              </Link>
+              </AniLink>
             </div>
             <div className="navbar-end has-text-centered">
               <a

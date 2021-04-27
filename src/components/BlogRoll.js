@@ -1,8 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 import { kebabCase } from 'lodash'
+import AniLink from 'gatsby-plugin-transition-link/AniLink'
 
 class BlogRoll extends React.Component {
   render() {
@@ -31,12 +32,14 @@ class BlogRoll extends React.Component {
                     </div>
                   ) : null}
                   <p className="post-meta">
-                    <Link
+                    <AniLink
+                      paintDrip
+                      hex="#f09b0d"
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
-                    </Link>
+                    </AniLink>
                     <span> &bull; </span>
                     <span className="subtitle is-size-6 is-block">
                       {post.frontmatter.date}
@@ -44,9 +47,13 @@ class BlogRoll extends React.Component {
                     <span>{post.frontmatter.description}</span>
                     <br />
                     <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
+                    <AniLink 
+                      className="button" 
+                      paintDrip
+                      hex="#f09b0d" 
+                      to={post.fields.slug}>
+                        Keep Reading →
+                    </AniLink>
                   </p>
                 </header>
                 {post.frontmatter.tags && post.frontmatter.tags.length ? (
@@ -55,7 +62,12 @@ class BlogRoll extends React.Component {
                       <ul className="taglist">
                         {post.frontmatter.tags.map((tag) => (
                           <li key={tag + `tag`}>
-                            <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                            <AniLink 
+                              cover 
+                              direction="up" 
+                              bg="#f09b0d" 
+                              to={`/tags/${kebabCase(tag)}/`}>{tag}
+                            </AniLink>
                           </li>
                         ))}
                       </ul>
