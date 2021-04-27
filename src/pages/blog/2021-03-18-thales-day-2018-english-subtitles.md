@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Thales Day 2018 (English subtitles)
 date: 2018-01-06T11:49:00.000Z
 description: How Does A.I. Influence our Identity/Sense of Self?
+featuredpost: true
 featuredimage: /img/yuyeung-lau-lr5mtjuri5c-unsplash.jpg
 tags:
   - event
