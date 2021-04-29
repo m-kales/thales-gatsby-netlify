@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { ButtonBack } from '../components/ButtonBack' 
 
 export const BlogPostTemplate = ({
   content,
@@ -21,9 +22,12 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column is-1">
+            <ButtonBack />
+          </div>
+          <div className="column is-10">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
+            {title}
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
