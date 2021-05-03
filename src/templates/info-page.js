@@ -30,7 +30,7 @@ export const InfoPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow:  '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
+          boxShadow: '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
           backgroundColor: '#f09b0d',
           color: 'white',
           padding: '1rem',

@@ -38,8 +38,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
+            boxShadow: '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
             backgroundColor: '#f09b0d',
             color: 'white',
             lineHeight: '1',
@@ -51,8 +50,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
+            boxShadow: '#f09b0d 0.5rem 0px 0px, #f09b0d -0.5rem 0px 0px',
             backgroundColor: '#f09b0d',
             color: 'white',
             lineHeight: '1',
