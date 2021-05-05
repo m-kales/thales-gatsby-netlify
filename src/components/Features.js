@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import AniLink from 'gatsby-plugin-transition-link/AniLink'
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="tile is-ancestor">
@@ -17,6 +18,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <h3>{item.text}</h3>
+          <AniLink paintDrip to={item.relatedarticle.slug}>Go</AniLink>
       </div>
     ))}
   </div>

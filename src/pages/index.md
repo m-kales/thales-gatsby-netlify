@@ -21,7 +21,7 @@ intro:
   blurbs:
     - image: /img/apcof-logo_180x.webp
       text: A Posteriori Coffee Co.
-      body: Noget
+      relatedarticle: Thales Day 2015 (English subtitles)
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---

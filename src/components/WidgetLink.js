@@ -1,9 +1,12 @@
-import { Link } from 'gatsby';
 import React from 'react';
 
-class WidgetLink extends React.Component {
+export class WidgetLink extends React.Component {
     render() {
-        
+        return(
+            <a href={linkUrl} target="_blank">{linkText}</a>
+        )
     }
-    return();
+
 }
+
+export const WidgetLinkPreview = props => <a></a>;
