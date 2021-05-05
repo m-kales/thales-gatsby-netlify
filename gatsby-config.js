@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Thales Day',
-    description:
-      'Aiming to encapsulate and inspire our pursuit of human flourishing and our continued quest for shared principles that enable constructive dialogue and mutual understanding. ',
+    description: 'Aiming to encapsulate and inspire our pursuit of human flourishing and our continued quest for shared principles that enable constructive dialogue and mutual understanding. ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

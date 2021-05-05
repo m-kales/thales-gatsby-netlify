@@ -20,7 +20,7 @@ mainpitch:
 intro:
   blurbs:
     - image: /img/apcof-logo_180x.webp
-      text: https//:www.example.com
+      text: A Posteriori Coffee Co.
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
