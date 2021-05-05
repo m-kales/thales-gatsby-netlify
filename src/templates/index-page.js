@@ -199,7 +199,6 @@ export const pageQuery = graphql`
               }
             }
             text
-            relatedarticle
           }
           heading
           description
