@@ -21,7 +21,11 @@ intro:
   blurbs:
     - image: /img/apcof-logo_180x.webp
       text: A Posteriori Coffee Co.
+<<<<<<< HEAD
       relatedarticle: 2021-03-18-thales-day-2015-english-subtitles
+=======
+      body: Noget
+>>>>>>> parent of 0d315b6 (Try to make relation widget work for slug link)
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
