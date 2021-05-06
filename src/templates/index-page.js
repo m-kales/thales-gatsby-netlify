@@ -1,10 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Features from '../components/Features'
 import Layout from '../components/Layout'
 import BlogRollFeatured from '../components/BlogRollFeatured'
-import AniLink from 'gatsby-plugin-transition-link/AniLink'
 export const IndexPageTemplate = ({
   image,
   title,
@@ -89,14 +88,11 @@ export const IndexPageTemplate = ({
                     </h3>
                     <BlogRollFeatured />
                     <div className="column is-12 has-text-centered">
-                      <AniLink 
-                        className="btn" 
-                        direction="left" 
-                        bg="#f09b0d" 
-                        cover 
+                      <Link 
+                        className="btn"
                         to="/blog" >
                           Read more
-                      </AniLink>
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -111,14 +107,11 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <AniLink 
+                    <Link 
                       className="btn" 
-                      cover 
-                      direction="up" 
-                      bg="#f09b0d" 
                       to="/info#merchandise" >
                         Check out our merchandise
-                      </AniLink>
+                      </Link>
                   </div>
                 </div>
               </div>
