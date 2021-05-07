@@ -104,11 +104,11 @@ export const IndexPageTemplate = ({
                       {intro.heading}
                     </h3>
                     <p>{intro.description}</p>
+                    <a href="https://aposterioricoffee.com/">
+                      <Features gridItems={intro.blurbs} />
+                    </a>
                   </div>
                 </div>
-                <a href="https://aposterioricoffee.com/">
-                  <Features gridItems={intro.blurbs} />
-                </a>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <AniLink 
