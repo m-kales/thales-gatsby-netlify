@@ -104,9 +104,7 @@ export const IndexPageTemplate = ({
                       {intro.heading}
                     </h3>
                     <p>{intro.description}</p>
-                    <a href="https://aposterioricoffee.com/">
                       <Features gridItems={intro.blurbs} />
-                    </a>
                   </div>
                 </div>
                 <div className="columns">
