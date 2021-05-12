@@ -21,6 +21,8 @@ intro:
   blurbs:
     - image: /img/apcof-logo_180x.webp
       text: A Posteriori Coffee Co.
+    - image: /img/trianglen-boghandel-logo.gif
+      text: Trianglen Antikvariat
   heading: A big thank you goes out to
   description: Our collaborators who help us spread the word.
 ---
